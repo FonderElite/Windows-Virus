@@ -130,4 +130,6 @@ software\*.*
 rem
 color 04
 for /L %%n in (3,3,3000)do echo YOUR ANTIVIRUS IS DEAD HAHAHAHA!!!
+color 02
+for for /L %%n in (3,3,3000)do echo KILLED BY FONDER ELITE!!!
 PAUSE
