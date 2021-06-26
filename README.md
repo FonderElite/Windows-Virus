@@ -1,7 +1,9 @@
 ## 💻 Windows-Virus
 <img src="https://blog.malwarebytes.com/wp-content/uploads/2014/11/scams.png" width=550>
 
-## Ruin a Windows User's PC!
+## 👨‍🏫 Purpose Of This Project
+This project is only to give people a bit of information about viruses and eventually inform them that
+not all programs are trustworthy and we should always take caution of what we do and giveout online.
 
 ### ❗ Use it at your own risk ❗
 Iam not responsible for any damages this virus will cause to your pc, please use it
