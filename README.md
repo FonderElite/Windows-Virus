@@ -1,5 +1,5 @@
 # 💻 Windows-Virus
-![Alt text](https://cdn.iconscout.com/icon/free/png-256/computer-virus-2077406-1754824.png)
+![Alt text](https://blog.malwarebytes.com/wp-content/uploads/2014/11/scams.png)
 ## Ruin a Windows User's PC!
 ### ❗ Use it at your own risk ❗
 
